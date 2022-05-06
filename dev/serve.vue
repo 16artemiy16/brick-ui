@@ -9,6 +9,8 @@ export default defineComponent({
 
 <template>
   <div id="app">
-    <BrInput />
+    <div style="width: 450px;">
+      <BrInput />
+    </div>
   </div>
 </template>
